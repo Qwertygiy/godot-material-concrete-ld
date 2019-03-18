@@ -1,9 +1,10 @@
 [gd_resource type="SpatialMaterial" load_steps=5 format=2]
 
-[ext_resource path="res://concrete_tex_ld.png" type="Texture" id=1]
-[ext_resource path="res://concrete_height_ld.png" type="Texture" id=2]
-[ext_resource path="res://concrete_spec_ld.png" type="Texture" id=3]
-[ext_resource path="res://concrete_ld.png" type="Texture" id=4]
+[ext_resource path="res://materials/concrete/concrete_tex_ld.png" type="Texture" id=1]
+[ext_resource path="res://materials/concrete/concrete_height_ld.png" type="Texture" id=2]
+[ext_resource path="res://materials/concrete/concrete_spec_ld.png" type="Texture" id=3]
+[ext_resource path="res://materials/concrete/concrete_ld.png" type="Texture" id=4]
+
 
 [resource]
 
